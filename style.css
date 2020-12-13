@@ -1,0 +1,47 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Poppins', sans-serif;
+    background-image: url(/images/navidad.jpg);
+}
+
+.TitleCountDown{
+    font-size: 4rem;
+    margin-top: -27rem;
+    text-align: center;
+}
+
+.CountDownContainer{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.CountTextValue{
+    font-size: 4rem;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    line-height: 1;
+    margin: 0 1rem;
+}
+
+.CountText{
+    font-size: 0.8rem;
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+.destination{
+     text-align: center;
+}
