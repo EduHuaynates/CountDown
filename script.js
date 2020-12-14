@@ -1,4 +1,4 @@
-const GiftDay = 'December 13, 2020 18:30:20';
+const GiftDay = 'December 13, 2020 20:20:20';
 var  totalSeconds = 0;
 // const countDown = () => {
 //     const GiftDayDate = new Date(GiftDay);
