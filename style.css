@@ -12,7 +12,8 @@ body{
     justify-content: center;
     min-height: 100vh;
     font-family: 'Poppins', sans-serif;
-    background-image: url(/images/navidad.jpg);
+    background-image: url('https://img3.akspic.ru/fit/135115-sneg-derevo-nebo-priroda-dikaya_mestnost-x750.jpg');
+    background-size: cover;
 }
 
 .TitleCountDown{
